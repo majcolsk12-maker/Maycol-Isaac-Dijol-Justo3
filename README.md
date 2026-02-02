@@ -8,7 +8,7 @@ Este proyecto es una página web sencilla creada con HTML y css.
 ## Tecnologías usadas
 - HTML5
 - CSS3 (opcional si luego agregas estilos)
-
+JavaScript
 ## Autor
 Maycol Isaac Dijol Justo
 Johan Esteban Corporan Almonte
