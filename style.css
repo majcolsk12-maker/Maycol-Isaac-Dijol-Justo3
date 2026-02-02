@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+
+    /* AQUÍ SOLO CAMBIA EL NOMBRE DE LA IMAGEN */
+    background-image: url("badbunny.jpg");
+
+    background-size: cover;        /* la imagen cubre toda la pantalla */
+    background-repeat: no-repeat;  /* que no se repita */
+    background-position: center;   /* centrada */
+    background-attachment: fixed;  /* efecto fijo al hacer scroll */
+    margin: 0;
+}
+
+.contenedor {
+    width: 400px;
+    margin: 100px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+.mensaje {
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+input {
+    width: 90%;
+    padding: 8px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 8px 15px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+}
+
+#resultado {
+    margin-top: 15px;
+    font-weight: bold;
+}
